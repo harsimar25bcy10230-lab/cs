@@ -1,6 +1,6 @@
 # library management code
 # These are the books in the library you can edit this to add your books or change it
-books = ["science","maths","english","history","computer","hindi","geography","sanskrit"]
+books = ["sst","math","english","history","computer","hindi","geography","sanskrit"]#ypu can edit this according to you
 takenbook = []
 print("Welcome to my School Library")
 while True:
@@ -14,7 +14,7 @@ while True:
         print("the books in the library are")
         for book in books:
             print('the books are',book)
-        print("Total number of books in the library are", len(books))
+        print("number of the books in the library are", len(books))
     elif choice == 2:
         print("the available books are")
         for book in books:
