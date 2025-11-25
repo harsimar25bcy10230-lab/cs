@@ -1,1 +1,31 @@
-At its core, this is a straightforward Python script designed for tracking your class attendance. Think of it as a digital tally keeper. You feed it the total number of classes that have occurred and the number you’ve actually attended. It then dutifully calculates your attendance percentage, giving you a clear readout of your current status. But here's where it gets a little interesting, or maybe just peculiar: it includes a feature to give you a status update based on that percentage – if you're sitting pretty at 75% or above, it gives you a positive… well, actually, it says 'OKAY SAFE', which is one thing, but if you’re below that? It *also* says 'IT IS SAFE'. "bunk check" mode that tries to tell you how many more classes you could theoretically skip without jeopardizing your attendance, or conversely, how many you absolutely must attend next to stay afloat, particularly if you're already cutting it close. It manages to save your progress – though, and this is a key detail, it only saves the attended count, not the total, which is a bit of an odd design choice, I admit – into a simple text file so you don't have to re-enter everything from scratch every single time you run i
+Project Title
+Library Management System
+A simple and easy to understand program to manage school library books.
+Made By
+HARSIMAR SINGH
+Roll No: 25BCY10230
+Objective
+To create a management system that can:
+
+Show available books
+Issue books to a student
+Return a book
+Show which books that are issued
+
+Features
+
+See available books
+Issue the available book 
+Return a book that was issued
+View list of issued books
+
+you can change the books based on your library from the source code.
+
+How to Run the Program
+
+You need Python installed on your computer
+Save the code as library.py
+and run and give the required input 
+
+<img width="1624" height="686" alt="Screenshot 2025-11-25 191233" src="https://github.com/user-attachments/assets/2bcc27da-fc24-4975-9c93-8216b6ace890" />
+<img width="1732" height="775" alt="Screenshot 2025-11-25 191117" src="https://github.com/user-attachments/assets/26b4fbc4-f101-46ae-8b6a-afd6cb904c2a" />
