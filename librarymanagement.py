@@ -1,6 +1,6 @@
 # library management code
 # These are the books in the library you can edit this to add your books or change it
-books = ["science","maths","english","history","computer","hindi","geography"]
+books = ["science","maths","english","history","computer","hindi","geography","sanskrit"]
 takenbook = []
 print("Welcome to my School Library")
 while True:
