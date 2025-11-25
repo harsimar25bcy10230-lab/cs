@@ -19,8 +19,7 @@ Issue the available book
 Return a book that was issued
 View list of issued books
 
-you can change the books based on your library from the source code.
-
+you can change the books based on your library from the source code to customize to your library.
 How to Run the Program
 
 You need Python installed on your computer
@@ -29,6 +28,8 @@ and run and give the required input
 
 i used loops like if elif else 
 along with append ,remove to add book and remove book to the removedbooks list to show the current state of library books.
+working:
+a user inputs his option 1-5 depending on which service they need and program performs that
 
 the output is:
 <img width="1624" height="686" alt="Screenshot 2025-11-25 191233" src="https://github.com/user-attachments/assets/2bcc27da-fc24-4975-9c93-8216b6ace890" />
