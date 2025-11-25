@@ -27,5 +27,9 @@ You need Python installed on your computer
 Save the code as library.py
 and run and give the required input 
 
+i used loops like if elif else 
+along with append ,remove to add book and remove book to the removedbooks list to show the current state of library books.
+
+the output is:
 <img width="1624" height="686" alt="Screenshot 2025-11-25 191233" src="https://github.com/user-attachments/assets/2bcc27da-fc24-4975-9c93-8216b6ace890" />
 <img width="1732" height="775" alt="Screenshot 2025-11-25 191117" src="https://github.com/user-attachments/assets/26b4fbc4-f101-46ae-8b6a-afd6cb904c2a" />
