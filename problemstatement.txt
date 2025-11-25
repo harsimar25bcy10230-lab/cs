@@ -1,0 +1,8 @@
+Problem Statement
+The current manual library system has the following problems:
+
+Librarian has to write every thing in the register.
+It is difficult to quickly check which books are available.
+Students waste time searching for a book.
+There is no easy way to know who has not returned the book.
+If a lot students come together, the librarian gets confused and the process become very slow
