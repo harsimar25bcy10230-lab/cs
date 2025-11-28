@@ -1,18 +1,17 @@
-Project Title
-Library Management System
-A simple and easy to understand program to manage school library books.
+Project Title :Library Management System
+**A simple and easy to understand program to manage school library books.**
 Made By
 HARSIMAR SINGH
 Roll No: 25BCY10230
-Objective
-To create a management system that can:
+Objective:
 
+**To create a management system that can:**
 Show available books
 Issue books to a student
 Return a book
 Show which books that are issued
 
-Features
+**Features**
 
 See available books
 Issue the available book 
