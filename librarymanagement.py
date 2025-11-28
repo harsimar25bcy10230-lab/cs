@@ -1,8 +1,8 @@
 # library management code
 # These are the books in the library you can edit this to add your books or change it
-books = ["sst","math","english","history","computer","hindi","geography","sanskrit"]#ypu can edit this according to you
+books = ["sst","math","english","history","computer","hindi","geography","sanskrit","civics"]#ypu can edit this according to you
 takenbooks = []
-print("Welcome to my School Library")
+print("Welcome to the School Library please choose a option from below")
 while True:
     print("1.see the available books")
     print("2.issue a book")
@@ -48,7 +48,7 @@ while True:
             for book in takenbooks:
                 print(book)     
     elif choice == 5:
-        print("bye")
+        print("bye and thank you")
         break 
     else:
         print("you entered the wrong number")
