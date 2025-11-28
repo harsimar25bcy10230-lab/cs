@@ -45,7 +45,7 @@ while True:
         if len(takenbooks) == 0:
             print("No book is taken")
         else:
-            for book in taken_books:
+            for book in takenbooks:
                 print(book)     
     elif choice == 5:
         print("bye")
