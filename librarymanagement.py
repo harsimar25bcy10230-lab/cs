@@ -1,7 +1,7 @@
 # library management code
 # These are the books in the library you can edit this to add your books or change it
 books = ["sst","math","english","history","computer","hindi","geography","sanskrit"]#ypu can edit this according to you
-takenbook = []
+takenbooka = []
 print("Welcome to my School Library")
 while True:
     print("1.see the available books")
